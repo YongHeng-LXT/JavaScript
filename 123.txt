@@ -1,6 +1,2 @@
 你好 世界
-<<<<<<< Updated upstream
 双方都胜多负少
-=======
-沙发斯蒂芬斯蒂芬
->>>>>>> Stashed changes
